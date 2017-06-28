@@ -28,6 +28,6 @@
 26	2017.6.25
 27	2017.6.26	Do not waste time here!
 28	2017.6.27	TMD别浪费时间!
-29
+29	2017.6.28	A good begining helps to make a good end
 30
 ```
