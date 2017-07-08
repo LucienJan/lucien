@@ -1,4 +1,4 @@
-## Signe in and take notes everyday~ :blush:
+## Sign in and take notes everyday~ :blush:
 ```html
 1
 2
@@ -38,6 +38,6 @@
 36	2017.7.5
 37	2017.7.6
 38	2017.7.7
-39
+39	2017.7.8
 40
 ```
