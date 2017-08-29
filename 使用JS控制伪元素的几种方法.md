@@ -93,3 +93,6 @@ $('.red').attr('data-attr', 'green');
 1. 伪元素的content属性很强大，可以写入各种字符串和部分多媒体文件。但是伪元素的内容只存在于CSS渲染树中，并不存在于真实的DOM中。所以为了SEO优化，最好不要在伪元素中包含与文档相关的内容。
 2. 修改伪元素的样式，建议使用通过更换class来修改样式的方法。因为其他两种通过插入行内CSSStyleSheet的方式是在JavaScript中插入字符代码，不利于样式与控制分离；而且字符串拼接易出错。
 3. 修改伪元素的content属性的值，建议使用利用DOM的data-*属性来更改。
+
+
+#原文地址：http://blog.csdn.net/xiaoya_syt/article/details/60577553
