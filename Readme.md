@@ -104,7 +104,7 @@
 102 2017.9.9
 103	2017.9.10	教师节快乐！
 104	2017.9.11
-105	2017.9.12
+105	2017.9.12	webpack插件方式引入jquery: plugins:[new webpack.ProvidePlugin({$:"jquery",jQuery:"jquery","window.jQuery":"jquery"})]
 106
 107
 108
