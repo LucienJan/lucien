@@ -135,7 +135,7 @@
 132	2017.10.9	A new day!
 133	2017.10.10
 134	2017.10.11
-135	2017.10.12	github的API接口地址: https://api.github.com
+135	2017.10.12	github的API接口地址:https://api.github.com	github安卓版:OctoDroid for GitHub
 136
 137
 138
