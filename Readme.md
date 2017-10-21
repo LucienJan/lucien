@@ -144,7 +144,7 @@
 141	2017.10.18	NBA常规赛开始了...
 142	2017.10.19
 143	2017.10.20
-144	2017.10.21	在github pages搭建自己的页面:www.cnblogs.com/lijia/p/githubpages.html#!comments
+144	2017.10.21	在github pages搭建自己的页面:www.cnblogs.com/lijiayi/p/githubpages.html#!comments
 145
 146
 147
